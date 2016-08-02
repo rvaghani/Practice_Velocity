@@ -1,0 +1,4 @@
+E:\VSProject\winAppRajesh_PracticeVelocity\EventTypeUtils\bin\Debug\EventTypeUtils.dll
+E:\VSProject\winAppRajesh_PracticeVelocity\EventTypeUtils\bin\Debug\EventTypeUtils.pdb
+E:\VSProject\winAppRajesh_PracticeVelocity\EventTypeUtils\obj\Debug\EventTypeUtils.dll
+E:\VSProject\winAppRajesh_PracticeVelocity\EventTypeUtils\obj\Debug\EventTypeUtils.pdb
